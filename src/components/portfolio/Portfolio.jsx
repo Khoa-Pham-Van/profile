@@ -38,15 +38,15 @@ const data = [
     title: "Sushi-App",
     link: "https://sushi-app-jasonlim.vercel.app/",
     github: "https://github.com/JasonLim1009/react-add-to-cart",
-    demo: "https://github.com"
+    demo: "https://www.youtube.com/watch?v=BMWMCKYRCl0"
   },
   {
     id: 5,
     image: IMG5,
-    title: "Crypto Currency Dashboard & Financial Visualization",
-    link: "https://www.youtube.com/watch?v=S_7rAWq9vt4",
-    github: "https://www.youtube.com/watch?v=S_7rAWq9vt4",
-    demo: "https://www.youtube.com/watch?v=S_7rAWq9vt4"
+    title: "PokeDex-App",
+    link: "https://pokedex-app-jasonlim.vercel.app/",
+    github: "https://github.com/JasonLim1009/React-PokeDex-App",
+    demo: "https://www.youtube.com/watch?v=vzkFrIGLiaY"
   },
   {
     id: 6,
