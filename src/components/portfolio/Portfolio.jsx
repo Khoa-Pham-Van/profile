@@ -21,7 +21,7 @@ const data = [
     image: IMG2,
     title: "Movie-App",
     link: "https://movie-app-jasonlim.vercel.app/",
-    github: "https://github.com/JasonLim1009/React-Movie",
+    github: "https://github.com/JasonLim1009/movie-app",
     demo: "https://www.youtube.com/watch?v=zaeJ8kZfBPA"
   },
   {
