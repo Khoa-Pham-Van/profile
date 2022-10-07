@@ -52,7 +52,7 @@ const data = [
     id: 6,
     image: IMG6,
     title: "Weather-App",
-    link: "https://react-weather-app-jasonlim.vercel.app/",
+    link: "https://weather-app-jasonlim.vercel.app/",
     github: "https://github.com/JasonLim1009/React-Weather-App",
     demo: "https://www.youtube.com/watch?v=dz1i8y4bk44"
   }
