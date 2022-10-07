@@ -4,6 +4,8 @@ import ME from "../../assets/me.jpg";
 import { FaAward } from "react-icons/fa";
 import { FiUsers } from "react-icons/fi";
 import { VscFolderLibrary } from "react-icons/vsc";
+import { GrDocumentPdf } from "react-icons/gr";
+import PDF from "../../assets/Job-Application-Form-Jasonlim.pdf";
 
 const About = () => {
   return (
@@ -48,8 +50,8 @@ const About = () => {
             position and purposefulness make me the kind of person you want to
             get to know and cooperate with in the future.
           </p>
-          <a href="#contact" className="btn btn-primary">
-            Let's Talk
+          <a href={PDF} className="btn btn-primary">
+            Download PDF <GrDocumentPdf />
           </a>
         </div>
       </div>
