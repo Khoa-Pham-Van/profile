@@ -43,10 +43,10 @@ const data = [
   {
     id: 5,
     image: IMG5,
-    title: "PokeDex-App",
-    link: "https://pokedex-app-jasonlim.vercel.app/",
-    github: "https://github.com/JasonLim1009/React-PokeDex-App",
-    demo: "https://www.youtube.com/watch?v=vzkFrIGLiaY"
+    title: "Crypto-App",
+    link: "https://crypto-app-jasonlim.vercel.app/",
+    github: "https://github.com/JasonLim1009/react-crypto-app",
+    demo: "https://www.youtube.com/watch?v=yBP5UTDOziI"
   },
   {
     id: 6,
