@@ -28,7 +28,7 @@ const data = [
     id: 3,
     image: IMG3,
     title: "NTFs-Optimux",
-    link: "https://ntfs-optimux-jasonlim.vercel.app/",
+    link: "https://nfts-optimux-jasonlim.vercel.app/",
     github: "https://github.com/JasonLim1009/NTFs-Optimux",
     demo: "https://www.youtube.com/watch?v=h1YYtDRaO_8"
   },
