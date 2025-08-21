@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/profile/static/css/main.a24f6bdb.css",
+    "main.js": "/profile/static/js/main.b829edd2.js",
+    "static/media/me2.png": "/profile/static/media/me2.2da308a7fd7775cd7649.png",
+    "static/media/me4.png": "/profile/static/media/me4.026a75caa46eeb2fb4c6.png",
+    "static/media/me5.png": "/profile/static/media/me5.9012d5d8cc924f33fb96.png",
+    "static/media/me3.png": "/profile/static/media/me3.43985e7bd5f51d2afc08.png",
+    "static/media/me6.png": "/profile/static/media/me6.9851e715c0bdb4d9b7d3.png",
+    "static/media/me1.png": "/profile/static/media/me1.c1a861155c3de953f2e8.png",
+    "static/media/me.jpg": "/profile/static/media/me.4085fa388ad68bb7ac00.jpg",
+    "index.html": "/profile/index.html",
+    "static/media/Job-Application-Form-Jasonlim.pdf": "/profile/static/media/Job-Application-Form-Jasonlim.31d6cfe0d16ae931b73c.pdf",
+    "static/media/cv.pdf": "/profile/static/media/cv.31d6cfe0d16ae931b73c.pdf",
+    "main.a24f6bdb.css.map": "/profile/static/css/main.a24f6bdb.css.map",
+    "main.b829edd2.js.map": "/profile/static/js/main.b829edd2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a24f6bdb.css",
+    "static/js/main.b829edd2.js"
+  ]
+}
