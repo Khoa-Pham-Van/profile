@@ -21,11 +21,11 @@ const Header = () => {
             }}
           />
         </h1>
-        <h5 className="text-light">Front-End Developer</h5>
+        <h5 className="text-light">Data Analysis</h5>
         <CTA />
         <HeaderSocials />
         <a href="#contact" className="scroll__down">
-          Scroll Down
+          Kéo xuống
         </a>
         <div className="me">
           <img src={ME} alt="me" />

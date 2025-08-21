@@ -6,10 +6,10 @@ const CTA = () => {
   return (
     <div className="cta">
       <a href={CV} download className="btn">
-        Download CV <FiDownload />
+        Tải CV <FiDownload />
       </a>
       <a href="#contact" className="btn btn-primary">
-        Let's Talk
+        Liên hệ
       </a>
     </div>
   );

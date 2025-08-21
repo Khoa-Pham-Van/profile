@@ -6,14 +6,14 @@ import { FaYoutube } from "react-icons/fa";
 const HeaderSocials = () => {
   return (
     <div className="header__socials">
-      <a href="https://www.instagram.com/jasonlim1009/" target="_blank">
+      <a href="" target="_blank">
         <FaInstagram />
       </a>
-      <a href="https://www.github.com/JasonLim1009" target="_blank">
+      <a href="" target="_blank">
         <FaGithub />
       </a>
       <a
-        href="https://www.youtube.com/channel/UCZtC8IaD62jcvVKB0SbkRIw/featured"
+        href=""
         target="_blank"
       >
         <FaYoutube />

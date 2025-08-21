@@ -1,7 +1,7 @@
 const introdata = {
-  title: "Hello I'm",
+  title: "Xin chào, tôi là",
   animated: {
-    first: "Jason LIM"
+    first: "Phạm Văn Khoa"
   }
 };
 
